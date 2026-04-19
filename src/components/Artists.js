@@ -1,6 +1,6 @@
 import React from 'react';
 import abhinavPhoto from '../assets/images/Abhinav.jpg';
-import siddharthPhoto from '../assets/images/Siddharth.jpg';
+import siddharthPhoto from '../assets/images/Siddarth.jpg';
 
 function Artists() {
   // 3D tilt removed per user preference
@@ -18,11 +18,11 @@ function Artists() {
         </div>
         <div className="reveal d2">
           <div className="artist-photo">
-            <img src={siddharthPhoto} alt="Siddharth Sreekumar" />
+            <img src={siddharthPhoto} alt="Siddarth Sreekumar" />
           </div>
           <div className="artist-role">Guitar · Lead Vocals · Lead Producer</div>
-          <h2 className="artist-name">Siddharth<br />Nayanar</h2>
-          <p className="artist-bio">Over 200 live shows. Collaborations with Arivu and Ilayaraja. A reputation for basslines that hit you before you think about them. Siddharth's playing pulls from the lyrical phrasing of Mark Knopfler and the emotional depth of David Gilmour, translated through a funk and R&B lens. His production is built on precision and groove. Off stage, you'll find him in the kitchen or with Kamali. Both require the same attention to detail.</p>
+          <h2 className="artist-name">Siddarth<br />Nayanar</h2>
+          <p className="artist-bio">Over 200 live shows. Collaborations with Arivu and Ilayaraja. A reputation for basslines that hit you before you think about them. Siddarth's playing pulls from the lyrical phrasing of Mark Knopfler and the emotional depth of David Gilmour, translated through a funk and R&B lens. His production is built on precision and groove. Off stage, you'll find him in the kitchen or with Kamali. Both require the same attention to detail.</p>
         </div>
       </div>
     </section>
